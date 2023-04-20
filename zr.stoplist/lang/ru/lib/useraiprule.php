@@ -1,0 +1,5 @@
+<?php
+
+$MESS['ZR_STOPLIST_USER_IP_RULE_ID'] = 'ID';
+$MESS['ZR_STOPLIST_USER_ACTIONS_ACTIVITY'] = 'Пользователь активен?';
+$MESS['ZR_STOPLIST_USER_ACTIONS_IP'] = 'IP пользователя';
